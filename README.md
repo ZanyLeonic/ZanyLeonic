@@ -1,16 +1,29 @@
-### Hi there 👋
+```zsh
+ZanyLeonic@github.com:~$ neofetch
+```
 
-<!--
-**ZanyLeonic/ZanyLeonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```csharp
+                                       
+           %@@(*****@(****/&/           ZanyLeonic@github.com
+        @*********@@*((@*****@%         ---------------------
+     *@*******&****.....@**@****&,      OS: Arch Linux x86_64
+  %@&&*****%*@.%&@......(#@,/*/**/,     Kernel: 5.18.6-compsci-student
+ ((*@@@%***@(@..............@@***/@%    Uptime: 7 years
+ &*&(##(@**@*#.@@.........@&*.&*/*& /   Packages: 21 (git)
+ @((##((@**%/.................@*(*&     Shell: zsh 5.8
+ @*@##@*/%@*@.................&&/*#     Terminal: kitty
+ @*(@....@,.%@......@.#&.@.....@*@      CPU: Intel i5 4690k (4) @ 3.50GHz
+ @**@.....&....................@/%      GPU: NVIDIA GTX 1060 6GB
+ @**%....(#@@@###%...........@%&&       RAM: 256MiB / 15495MiB
+ @**/(..@@##(###%&*....,#@@@. @.      
+ @***@*.&,,,,*(&@@,..%@*@    .        
+  @%& &&,,,,,,,@@,,,,,,,/@            
+   @      @,,,#&,,,,,,,,@@            
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```zsh
+ZanyLeonic@github.com:~$ fetch-stats
+```
+[![Stats](https://github-readme-stats.vercel.app/api?username=ZanyLeonic&show_icons=true&theme=radical&count_private=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanyLeonic&layout=compact&show_icons=true&theme=radical&count_private=true)]()
